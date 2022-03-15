@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTIMF:-1A
-https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
-#EXTIMF:-1B
-https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
-#EXTIMF:-1C
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8Charge!
-#EXTIMF:-1D
-https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
